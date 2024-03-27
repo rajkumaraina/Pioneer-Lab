@@ -1,0 +1,12 @@
+.HomeContainer{
+    padding:12px;
+}
+
+.PricesHeading{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.UnorderedList{
+    padding: 0px;
+    display:flex;
+}
